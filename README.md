@@ -1,6 +1,6 @@
 # AnimateDiff
 
- Inspired by : https://arxiv.org/pdf/2307.04725v1.pdf
+
 
 1.
 ![Animating-Text-to-Image-Models_page-0001](https://github.com/Rakib-data-scientist/AnimateDiff/assets/137823730/22a58cf4-d918-4112-b64d-455d242fcfc5)
@@ -38,3 +38,5 @@
 ![Animating-Text-to-Image-Models_page-0017](https://github.com/Rakib-data-scientist/AnimateDiff/assets/137823730/f9c143b5-b079-4737-9261-9a370dbd902a)
 18.
 ![Animating-Text-to-Image-Models_page-0018](https://github.com/Rakib-data-scientist/AnimateDiff/assets/137823730/55bfd3a4-f264-4c53-b4cd-fb35f0454b2c)
+
+*  Inspired by : https://arxiv.org/pdf/2307.04725v1.pdf
